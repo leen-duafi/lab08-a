@@ -1,0 +1,150 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+
+  }
+  
+
+.logo {
+float: left;
+margin: 0px;
+padding-left:20px;
+}
+header{
+   
+    background-color:gray;
+    padding: 20px;
+    margin:0px ;
+}
+    
+nav{
+    
+    margin-bottom: 20px;
+    
+}
+
+nav ul{
+    position: relative;
+
+    /* top  */
+}
+
+nav ul li{
+    display: inline-block;
+    padding: 25px;
+    color:cornsilk;
+
+}
+
+nav ul li a{
+    
+    text-decoration: none;
+    font-weight: bold;
+    padding: 62px;
+    color:cornsilk;
+}
+
+
+  .hero{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    padding: 35px;
+  }
+
+  body{
+    font-family: Arial, Helvetica, sans-serif;
+  
+    background-color: whitesmoke;}
+
+    img{
+        display: inline-block;
+        
+        margin-left:30px;
+        padding-bottom: 30px;
+ padding-right: 50px;
+ padding-left: 30px;
+
+    }
+img:last-child{
+
+    padding-right:80px;
+}
+
+
+   
+
+
+    footer {
+        background-color: gray;
+        clear: both;
+        height:80px;
+        padding: 0%;
+    }
+
+    .last{
+        float:left;
+       padding-left:0px;
+        padding-bottom:20px;
+    }
+
+    p{
+        width:700px;
+        height:250px;
+        overflow-y: scroll;
+        margin-bottom: 30px;
+        padding-left:0px;
+        padding-right: 40px;
+    }
+
+
+    .button{
+        
+        border:none ;
+        color:white;
+        padding: 30px 32px; 
+        font-size: 16px;
+        margin: 4px 20px;
+        cursor: pointer;
+        background-color:black;
+    }
+
+    .button:hover{
+        color: blueviolet;
+    }
+
+
+    h3{
+        padding-left: 500px;
+        font-weight: bold;
+        padding-right: 0px;
+    }
+
+
+    .first {
+        padding-left:1px;
+        padding-right: 60px;
+        
+    }
+
+   
+
+    .second{
+       
+        padding-left: 100px;
+        padding-right: 50px;
+        margin: 0px;
+
+    }
+
+    .third{
+        padding-left:50px;
+        padding-right: 0px;
+        padding-right: 10px;
+    }
+
+
+    
